@@ -1,0 +1,13 @@
+[project]
+name = "curso1"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "graphviz>=0.21",
+    "jupyterlab>=4.4.5",
+    "matplotlib>=3.10.3",
+    "pydot>=4.0.1",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.19.0",
+]

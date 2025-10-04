@@ -1,0 +1,13 @@
+[project]
+name = "curso4"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.4.6",
+    "kagglehub>=0.3.13",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "scikit-learn>=1.7.1",
+    "scipy>=1.16.1",
+    "tensorflow>=2.20.0",
+]
